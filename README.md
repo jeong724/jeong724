@@ -15,6 +15,7 @@
 ![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logoColor=white)
 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+![visual studio code](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ![Jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeong724&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oliveyou12)](https://solved.ac/oliveyou12/)
