@@ -6,7 +6,6 @@
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=oliveyou724@gmail.com"/>
 </a>
 
-//![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeong724&layout=compact)
 
 
 # Skills
