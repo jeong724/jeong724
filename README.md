@@ -6,6 +6,8 @@
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=oliveyou724@gmail.com"/>
 </a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeho13&layout=compact)
+
 
 # Skills
 ### Platforms & Languages
@@ -19,8 +21,6 @@
 
 ![Jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeong724&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oliveyou12)](https://solved.ac/oliveyou12/)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeho13&layout=compact)
 
 
 <!--
