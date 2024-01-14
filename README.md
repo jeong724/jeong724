@@ -20,8 +20,6 @@
 ![Jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeong724&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oliveyou12)](https://solved.ac/oliveyou12/)
 
-# velog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=kungya)](https://velog.io/@oliveyou12) 
 
 <!--
 **jeong724/jeong724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
