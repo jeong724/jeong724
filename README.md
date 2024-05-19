@@ -1,7 +1,6 @@
 # CHA HYUN JEONG 👋
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeong724&count_bg=%2360DF37&title_bg=%23C162DB&icon=android.svg&icon_color=%231ABC5F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- 
  <a href="mailto:oliveyou724@gmail.com">
    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=oliveyou724@gmail.com"/>
 </a>
