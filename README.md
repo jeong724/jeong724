@@ -13,9 +13,6 @@
 ### Platforms & Languages
 ![android](https://img.shields.io/badge/android-34A853.svg?&style=for-the-badge&logo=android&logoColor=white)
 ![kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=android&logoColor=white)
-![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
-![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logoColor=white)
-
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 ![visual studio code](https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
