@@ -1,13 +1,18 @@
-# CHA HYUN JEONG 👋
+## 차현정 Cha Hyun Jeong
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeong724&count_bg=%2360DF37&title_bg=%23C162DB&icon=android.svg&icon_color=%231ABC5F&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
- <a href="mailto:oliveyou724@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=oliveyou724@gmail.com"/>
-</a>
+## 👩🏻‍💻About Me
+- Soongsil Univ., Seoul, Korea (Computer Science)
+- Currently studying Backend
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/jeong724?pet-id=1" width="1000" height="120"/>
-</a>
+![Jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeong724&show_icons=true&theme=radical)
+
+<!--<h3>📚 Studying 📚</h3>
+<div>
+    <img src="https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/dart-0175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/kotlin-0095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+</div>--!>
+
 
 
 <!--![Jeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeong724&show_icons=true&theme=radical) --!>
